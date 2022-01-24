@@ -1,0 +1,14 @@
+{
+    "Items": {
+        "some_test_item": {
+            "Key": "test_key_1",
+            "Value": "test value",
+            "ExpiresAt": "0001-01-01T00:00:00Z"
+        },
+        "some_test_item2": {
+            "Key": "test_key_2",
+            "Value": "we will need to change the ExpiresAt value in 2122 year",
+            "ExpiresAt": "2122-01-24T03:35:08.7877809+03:00"
+        }
+    }
+}
